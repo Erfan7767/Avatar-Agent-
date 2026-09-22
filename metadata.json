@@ -1,0 +1,7 @@
+{
+  "name": "AI Avatar",
+  "description": "Real-time photorealistic AI Avatar with synchronized voice and facial animation for Arabic and English conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

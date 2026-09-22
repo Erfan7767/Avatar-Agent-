@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AI Avatar</string>
+    <string name="mic_permission_title">Microphone Permission Required</string>
+    <string name="mic_permission_rationale">Microphone access is required for real-time natural voice conversation with the AI avatar.</string>
+    <string name="mic_permission_settings_title">Enable Microphone in Settings</string>
+    <string name="mic_permission_allow">Allow Microphone</string>
+    <string name="mic_permission_open_settings">Open Settings</string>
+    <string name="mic_permission_continue_without">Continue without mic</string>
+</resources>
+
